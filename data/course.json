@@ -1,6 +1,9 @@
 [
     {
-      
+      "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
       },
       "categoryid": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
